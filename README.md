@@ -2,7 +2,7 @@
 
 Голосовая диктовка в любое окно Windows. Нажмите `Ctrl+Shift+Space`, скажите текст и нажмите сочетание ещё раз: ИИ распознает речь, уберёт слова-паразиты, расставит знаки и вставит текст туда, где стоит курсор. Русский и английский можно смешивать.
 
-[![Voices: письмо, продиктованное голосом](media/voices-demo.gif)](media/voices-promo.mp4)
+[![Voices: письмо, продиктованное голосом](media/voices-demo.gif)](https://github.com/Nikita-Ardashev/voices-releases/raw/main/media/voices-promo.mp4)
 
 ▶ [Промо-ролик целиком](https://github.com/Nikita-Ardashev/voices-releases/raw/main/media/voices-promo.mp4) — MP4, 32 секунды, 9,6 МБ, со звуком
 
