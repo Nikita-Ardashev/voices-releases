@@ -4,7 +4,7 @@
 
 [![Voices: письмо, продиктованное голосом](media/voices-demo.gif)](media/voices-promo.mp4)
 
-▶ [Смотреть промо-ролик целиком](media/voices-promo.mp4) (32 секунды, со звуком)
+▶ [Промо-ролик целиком](https://github.com/Nikita-Ardashev/voices-releases/raw/main/media/voices-promo.mp4) — MP4, 32 секунды, 9,6 МБ, со звуком
 
 ## Скачать
 
